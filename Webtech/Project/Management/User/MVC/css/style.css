@@ -1,0 +1,283 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+}
+
+body{
+    background: url("../images/background.jpg") no-repeat center center fixed;
+    background-size: cover;
+    
+}
+
+.navbar{
+    background:green;
+    color:white;
+    padding: 15px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 10;
+}
+
+.navbar a{
+    
+    text-decoration: none;
+    color: white;
+    margin-left: 15px;
+    padding: 6px 12px;
+    border: 1px solid rgba(34, 244, 34, 0.619); 
+
+}
+
+.navbar a:hover{
+    background: rgba(0, 84, 0, 0.97);
+    box-shadow: 0 0 10px 2px rgba(5, 228, 1, 0.68);
+    transition: all 0.3s ease;
+}
+
+.nav-left{
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.nav-left img{
+    height: 30px;
+    width: 35px;
+}
+
+.container{
+    display: flex;
+    min-height:83vh;
+    background: rgba(210, 209, 209, 0.498);
+    
+
+}
+.sidebar{
+    width: 220px;
+    background: rgba(52, 180, 139, 0.612);
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+
+
+.sidebar a:first-child {
+    margin-top: 50px;
+}
+.sidebar a{
+    width: 150px;
+    display: block;
+    text-align: center;
+    background-color:rgba(17, 109, 37, 0.612) ;
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    text-decoration: none;
+    margin-top: 8px;
+    margin-right: 15px;
+    margin-bottom: 8px;
+    margin-left: 8px;
+    border-radius: 5px;
+}
+
+.sidebar a:hover{
+    background: rgb(2, 116, 2);
+    box-shadow: 0 0 10px 2px rgba(5, 228, 1, 0.68);
+    transition: all 0.3s ease;
+}
+
+.content{
+    
+    flex: 1;
+    padding: 20px;
+    color: white;
+ 
+}
+.content button:hover {
+    background-color: #35a02f !important; 
+    transition: 0.3s;
+}
+
+
+.card-container{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px,1fr));
+    gap: 20px;
+    
+
+}
+
+.card{
+    background: rgba(255, 255, 255, 0.553);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px 2px rgba(5, 228, 1, 0.68);
+}
+
+.card h3{
+    color: green;
+
+}
+
+table{
+    width: 85%; 
+    margin: 0 auto; 
+    border-collapse: collapse;
+    background: rgba(255, 255, 255, 0.283);
+    backdrop-filter: blur(3px);
+    box-shadow: 0 0 10px 6px rgba(5, 228, 1, 0.68);
+
+}
+
+table th{
+    background: rgb(10, 96, 10);
+    color: white;
+    padding: 10px;
+    border: 2px solid green;
+}
+
+table td{
+    text-align: center;
+    padding: 10px;
+    border: 2px solid green;
+    color: rgb(0, 0, 0);
+}
+
+table tr:nth-child(odd){
+    background: rgba(80, 208, 255, 0.459);
+}
+table tr:nth-child(even){
+    background: rgba(111, 255, 188, 0.2);
+}
+
+/*add product*/
+.profile-box{
+    width: 45%;
+    max-height: fit-content;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 25px;
+    background: rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(6px);
+    border-radius: 12px;
+    box-shadow: 0 0 10px 6px rgba(5, 228, 1, 0.68);
+}
+
+.profile-form label{
+    display: block;
+    margin-top: 4px;
+    font-weight: bold;
+    color: white;
+}
+
+.profile-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 7px;
+}
+
+.profile-form input,
+.profile-form textarea,
+.profile-form select {
+    width: 100%;
+    display: block;
+    padding: 8px;
+    margin-top: 6.5px;
+    border-radius: 5px;
+    border: 1px solid #cdcdcd;
+    background: white;
+}
+
+.profile-form textarea {
+    resize:none;
+}
+
+.profile-form button{
+    margin-top: 10px;
+    background: white;
+    color: rgb(2, 185, 24);
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-weight: bold;
+    width: 100%;
+}
+
+.profile-form button:hover{
+    background-color:  #85f0b4;
+    transition: 0.3s;
+    color: white;
+}
+/*login form*/
+.profile-box_2 {
+    width: 35%;
+    max-height: fit-content;
+    min-height: 465px;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 25px;
+    background: rgba(255, 255, 255, 0.315);
+    backdrop-filter: blur(6px);
+    border-radius: 12px;
+    box-shadow: 0 0 10px 6px rgba(5, 228, 1, 0.68);
+}
+
+.profile-box_3{
+    width: 40%;
+    max-height: fit-content;
+    min-height: 466px;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 25px;
+    background: rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(6px);
+    border-radius: 12px;
+    box-shadow: 0 0 10px 6px rgba(5, 228, 1, 0.68);
+}
+
+/* graphbox*/
+.analytics-row {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.graph-box {
+    flex: 1;
+    border: 1px solid #06ff87;
+    padding: 15px;
+    background-color: #00970f;
+    min-height: 250px;
+}
+
+/* graph*/
+button {
+    padding: 10px 20px;
+    cursor: pointer;
+    background-color: #2196f3;
+    color: white;
+    border: none;
+    border-radius: 4px;
+}
+
+.footer{
+    bottom: 0;
+    background: green;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: auto;
+    z-index: 5;
+    
+}
