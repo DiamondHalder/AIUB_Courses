@@ -1,0 +1,7 @@
+C:\Users\Diamond\Desktop\MY C#\bio\bio\obj\Debug\bio.csproj.AssemblyReference.cache
+C:\Users\Diamond\Desktop\MY C#\bio\bio\obj\Debug\bio.csproj.CoreCompileInputs.cache
+C:\Users\Diamond\Desktop\MY C#\bio\bio\bin\Debug\bio.exe.config
+C:\Users\Diamond\Desktop\MY C#\bio\bio\bin\Debug\bio.exe
+C:\Users\Diamond\Desktop\MY C#\bio\bio\bin\Debug\bio.pdb
+C:\Users\Diamond\Desktop\MY C#\bio\bio\obj\Debug\bio.exe
+C:\Users\Diamond\Desktop\MY C#\bio\bio\obj\Debug\bio.pdb

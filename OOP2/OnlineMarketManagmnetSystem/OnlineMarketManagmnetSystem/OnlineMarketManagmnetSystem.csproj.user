@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AdminRegistration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Bkash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BkashEnd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Botp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Buy1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BuyProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Card.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CardEnd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Cardotp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Nagad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="nagadend.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Notp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Product.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Registration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Rocket.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Rocketend.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Rotp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SellingDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

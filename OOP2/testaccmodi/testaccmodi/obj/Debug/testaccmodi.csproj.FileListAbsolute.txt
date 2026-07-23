@@ -1,0 +1,7 @@
+D:\BSc\7. SEMESTER\OOP2\New folder\MY C#\testaccmodi\testaccmodi\bin\Debug\testaccmodi.exe.config
+D:\BSc\7. SEMESTER\OOP2\New folder\MY C#\testaccmodi\testaccmodi\bin\Debug\testaccmodi.exe
+D:\BSc\7. SEMESTER\OOP2\New folder\MY C#\testaccmodi\testaccmodi\bin\Debug\testaccmodi.pdb
+D:\BSc\7. SEMESTER\OOP2\New folder\MY C#\testaccmodi\testaccmodi\obj\Debug\testaccmodi.csproj.AssemblyReference.cache
+D:\BSc\7. SEMESTER\OOP2\New folder\MY C#\testaccmodi\testaccmodi\obj\Debug\testaccmodi.csproj.CoreCompileInputs.cache
+D:\BSc\7. SEMESTER\OOP2\New folder\MY C#\testaccmodi\testaccmodi\obj\Debug\testaccmodi.exe
+D:\BSc\7. SEMESTER\OOP2\New folder\MY C#\testaccmodi\testaccmodi\obj\Debug\testaccmodi.pdb

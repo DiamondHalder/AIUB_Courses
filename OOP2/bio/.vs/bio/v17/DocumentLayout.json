@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Diamond\\Desktop\\MY C#\\bio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2F0D0B-7C8E-46B0-9FF6-9B9C2ACAB8F7}|bio\\bio.csproj|c:\\users\\diamond\\desktop\\my c#\\bio\\bio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2F0D0B-7C8E-46B0-9FF6-9B9C2ACAB8F7}|bio\\bio.csproj|solutionrelative:bio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Diamond\\Desktop\\MY C#\\bio\\bio\\Program.cs",
+              "RelativeDocumentMoniker": "bio\\Program.cs",
+              "ToolTip": "C:\\Users\\Diamond\\Desktop\\MY C#\\bio\\bio\\Program.cs",
+              "RelativeToolTip": "bio\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAQwDgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T18:34:02.066Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

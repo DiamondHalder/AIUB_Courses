@@ -1,0 +1,14 @@
+C:\Users\Diamond\Desktop\MY C#\MIDTASK 2\MIDTASK 2\obj\Debug\MIDTASK 2.csproj.AssemblyReference.cache
+C:\Users\Diamond\Desktop\MY C#\MIDTASK 2\MIDTASK 2\obj\Debug\MIDTASK 2.csproj.CoreCompileInputs.cache
+C:\Users\Diamond\Desktop\MY C#\MIDTASK 2\MIDTASK 2\bin\Debug\MIDTASK 2.exe.config
+C:\Users\Diamond\Desktop\MY C#\MIDTASK 2\MIDTASK 2\bin\Debug\MIDTASK 2.exe
+C:\Users\Diamond\Desktop\MY C#\MIDTASK 2\MIDTASK 2\bin\Debug\MIDTASK 2.pdb
+C:\Users\Diamond\Desktop\MY C#\MIDTASK 2\MIDTASK 2\obj\Debug\MIDTASK 2.exe
+C:\Users\Diamond\Desktop\MY C#\MIDTASK 2\MIDTASK 2\obj\Debug\MIDTASK 2.pdb
+D:\BSc\7. SEMESTER\OOP2\New folder\MY C#\MIDTASK 2\MIDTASK 2\bin\Debug\MIDTASK 2.exe.config
+D:\BSc\7. SEMESTER\OOP2\New folder\MY C#\MIDTASK 2\MIDTASK 2\bin\Debug\MIDTASK 2.exe
+D:\BSc\7. SEMESTER\OOP2\New folder\MY C#\MIDTASK 2\MIDTASK 2\bin\Debug\MIDTASK 2.pdb
+D:\BSc\7. SEMESTER\OOP2\New folder\MY C#\MIDTASK 2\MIDTASK 2\obj\Debug\MIDTASK 2.csproj.AssemblyReference.cache
+D:\BSc\7. SEMESTER\OOP2\New folder\MY C#\MIDTASK 2\MIDTASK 2\obj\Debug\MIDTASK 2.csproj.CoreCompileInputs.cache
+D:\BSc\7. SEMESTER\OOP2\New folder\MY C#\MIDTASK 2\MIDTASK 2\obj\Debug\MIDTASK 2.exe
+D:\BSc\7. SEMESTER\OOP2\New folder\MY C#\MIDTASK 2\MIDTASK 2\obj\Debug\MIDTASK 2.pdb

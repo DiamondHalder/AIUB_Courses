@@ -1,0 +1,5 @@
+﻿Build started at 1:55 PM...
+1>------ Build started: Project: labtask2, Configuration: Debug Any CPU ------
+1>  labtask2 -> C:\Users\Diamond\source\repos\labtask2\labtask2\bin\Debug\labtask2.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 1:55 PM and took 02.977 seconds ==========

@@ -1,0 +1,7 @@
+D:\BSc\7. SEMESTER\OOP2\New folder\MY C#\loop2\loop2\bin\Debug\loop2.exe.config
+D:\BSc\7. SEMESTER\OOP2\New folder\MY C#\loop2\loop2\bin\Debug\loop2.exe
+D:\BSc\7. SEMESTER\OOP2\New folder\MY C#\loop2\loop2\bin\Debug\loop2.pdb
+D:\BSc\7. SEMESTER\OOP2\New folder\MY C#\loop2\loop2\obj\Debug\loop2.csproj.AssemblyReference.cache
+D:\BSc\7. SEMESTER\OOP2\New folder\MY C#\loop2\loop2\obj\Debug\loop2.csproj.CoreCompileInputs.cache
+D:\BSc\7. SEMESTER\OOP2\New folder\MY C#\loop2\loop2\obj\Debug\loop2.exe
+D:\BSc\7. SEMESTER\OOP2\New folder\MY C#\loop2\loop2\obj\Debug\loop2.pdb

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DIAMOND\\BSc\\7. SEMESTER\\OOP2\\New folder\\MY C#\\QuizQuestionOutput\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1297AF4F-63D2-47DE-A8F1-3D303BB0CA60}|QuizQuestionOutput\\QuizQuestionOutput.csproj|d:\\diamond\\bsc\\7. semester\\oop2\\new folder\\my c#\\quizquestionoutput\\quizquestionoutput\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1297AF4F-63D2-47DE-A8F1-3D303BB0CA60}|QuizQuestionOutput\\QuizQuestionOutput.csproj|solutionrelative:quizquestionoutput\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DIAMOND\\BSc\\7. SEMESTER\\OOP2\\New folder\\MY C#\\QuizQuestionOutput\\QuizQuestionOutput\\Program.cs",
+              "RelativeDocumentMoniker": "QuizQuestionOutput\\Program.cs",
+              "ToolTip": "D:\\DIAMOND\\BSc\\7. SEMESTER\\OOP2\\New folder\\MY C#\\QuizQuestionOutput\\QuizQuestionOutput\\Program.cs*",
+              "RelativeToolTip": "QuizQuestionOutput\\Program.cs*",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwDAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T16:26:10.256Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

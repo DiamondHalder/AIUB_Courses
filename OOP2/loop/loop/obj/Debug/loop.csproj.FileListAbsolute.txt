@@ -1,0 +1,14 @@
+C:\Users\Diamond\Desktop\MY C#\loop\loop\bin\Debug\loop.exe.config
+C:\Users\Diamond\Desktop\MY C#\loop\loop\bin\Debug\loop.exe
+C:\Users\Diamond\Desktop\MY C#\loop\loop\bin\Debug\loop.pdb
+C:\Users\Diamond\Desktop\MY C#\loop\loop\obj\Debug\loop.csproj.AssemblyReference.cache
+C:\Users\Diamond\Desktop\MY C#\loop\loop\obj\Debug\loop.csproj.CoreCompileInputs.cache
+C:\Users\Diamond\Desktop\MY C#\loop\loop\obj\Debug\loop.exe
+C:\Users\Diamond\Desktop\MY C#\loop\loop\obj\Debug\loop.pdb
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\loop\loop\bin\Debug\loop.exe.config
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\loop\loop\bin\Debug\loop.exe
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\loop\loop\bin\Debug\loop.pdb
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\loop\loop\obj\Debug\loop.csproj.AssemblyReference.cache
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\loop\loop\obj\Debug\loop.csproj.CoreCompileInputs.cache
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\loop\loop\obj\Debug\loop.exe
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\loop\loop\obj\Debug\loop.pdb

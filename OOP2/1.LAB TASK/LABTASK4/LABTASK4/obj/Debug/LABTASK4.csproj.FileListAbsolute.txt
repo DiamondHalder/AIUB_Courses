@@ -1,0 +1,7 @@
+C:\Users\Diamond\Desktop\MY C#\1.LAB TASK\LABTASK4\LABTASK4\bin\Debug\LABTASK4.exe.config
+C:\Users\Diamond\Desktop\MY C#\1.LAB TASK\LABTASK4\LABTASK4\bin\Debug\LABTASK4.exe
+C:\Users\Diamond\Desktop\MY C#\1.LAB TASK\LABTASK4\LABTASK4\bin\Debug\LABTASK4.pdb
+C:\Users\Diamond\Desktop\MY C#\1.LAB TASK\LABTASK4\LABTASK4\obj\Debug\LABTASK4.csproj.AssemblyReference.cache
+C:\Users\Diamond\Desktop\MY C#\1.LAB TASK\LABTASK4\LABTASK4\obj\Debug\LABTASK4.csproj.CoreCompileInputs.cache
+C:\Users\Diamond\Desktop\MY C#\1.LAB TASK\LABTASK4\LABTASK4\obj\Debug\LABTASK4.exe
+C:\Users\Diamond\Desktop\MY C#\1.LAB TASK\LABTASK4\LABTASK4\obj\Debug\LABTASK4.pdb

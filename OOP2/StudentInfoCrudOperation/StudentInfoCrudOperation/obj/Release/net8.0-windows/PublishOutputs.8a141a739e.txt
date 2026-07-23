@@ -1,0 +1,11 @@
+C:\Users\DIAMOND HALDER\Desktop\StudentInfoCrudOperation.exe
+C:\Users\DIAMOND HALDER\Desktop\StudentInfoCrudOperation.dll
+C:\Users\DIAMOND HALDER\Desktop\StudentInfoCrudOperation.deps.json
+C:\Users\DIAMOND HALDER\Desktop\StudentInfoCrudOperation.runtimeconfig.json
+C:\Users\DIAMOND HALDER\Desktop\StudentInfoCrudOperation.pdb
+C:\Users\DIAMOND HALDER\Desktop\System.Data.SqlClient.dll
+C:\Users\DIAMOND HALDER\Desktop\runtimes\win-arm64\native\sni.dll
+C:\Users\DIAMOND HALDER\Desktop\runtimes\win-x64\native\sni.dll
+C:\Users\DIAMOND HALDER\Desktop\runtimes\win-x86\native\sni.dll
+C:\Users\DIAMOND HALDER\Desktop\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DIAMOND HALDER\Desktop\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

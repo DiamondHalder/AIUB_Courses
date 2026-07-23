@@ -1,0 +1,7 @@
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\CricketerBollerBatsman\CricketerBollerBatsman\obj\Debug\CricketerBollerBatsman.csproj.AssemblyReference.cache
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\CricketerBollerBatsman\CricketerBollerBatsman\obj\Debug\CricketerBollerBatsman.csproj.CoreCompileInputs.cache
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\CricketerBollerBatsman\CricketerBollerBatsman\bin\Debug\CricketerBollerBatsman.exe.config
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\CricketerBollerBatsman\CricketerBollerBatsman\bin\Debug\CricketerBollerBatsman.exe
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\CricketerBollerBatsman\CricketerBollerBatsman\bin\Debug\CricketerBollerBatsman.pdb
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\CricketerBollerBatsman\CricketerBollerBatsman\obj\Debug\CricketerBollerBatsman.exe
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\CricketerBollerBatsman\CricketerBollerBatsman\obj\Debug\CricketerBollerBatsman.pdb

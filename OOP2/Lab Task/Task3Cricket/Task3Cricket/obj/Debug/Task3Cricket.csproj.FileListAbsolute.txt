@@ -1,0 +1,7 @@
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\Lab Task\Task3Cricket\Task3Cricket\bin\Debug\Task3Cricket.exe.config
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\Lab Task\Task3Cricket\Task3Cricket\bin\Debug\Task3Cricket.exe
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\Lab Task\Task3Cricket\Task3Cricket\bin\Debug\Task3Cricket.pdb
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\Lab Task\Task3Cricket\Task3Cricket\obj\Debug\Task3Cricket.csproj.AssemblyReference.cache
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\Lab Task\Task3Cricket\Task3Cricket\obj\Debug\Task3Cricket.csproj.CoreCompileInputs.cache
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\Lab Task\Task3Cricket\Task3Cricket\obj\Debug\Task3Cricket.exe
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\Lab Task\Task3Cricket\Task3Cricket\obj\Debug\Task3Cricket.pdb

@@ -1,0 +1,7 @@
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\StringProperties\StringProperties\bin\Debug\StringProperties.exe.config
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\StringProperties\StringProperties\bin\Debug\StringProperties.exe
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\StringProperties\StringProperties\bin\Debug\StringProperties.pdb
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\StringProperties\StringProperties\obj\Debug\StringProperties.csproj.AssemblyReference.cache
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\StringProperties\StringProperties\obj\Debug\StringProperties.csproj.CoreCompileInputs.cache
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\StringProperties\StringProperties\obj\Debug\StringProperties.exe
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\StringProperties\StringProperties\obj\Debug\StringProperties.pdb

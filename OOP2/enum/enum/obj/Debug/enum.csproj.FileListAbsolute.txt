@@ -1,0 +1,7 @@
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\enum\enum\bin\Debug\@enum.exe.config
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\enum\enum\bin\Debug\@enum.exe
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\enum\enum\bin\Debug\@enum.pdb
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\enum\enum\obj\Debug\enum.csproj.AssemblyReference.cache
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\enum\enum\obj\Debug\enum.csproj.CoreCompileInputs.cache
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\enum\enum\obj\Debug\@enum.exe
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\enum\enum\obj\Debug\@enum.pdb

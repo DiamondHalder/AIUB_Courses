@@ -1,0 +1,7 @@
+C:\Users\Diamond\Desktop\MY C#\burger\burger\bin\Debug\burger.exe.config
+C:\Users\Diamond\Desktop\MY C#\burger\burger\bin\Debug\burger.exe
+C:\Users\Diamond\Desktop\MY C#\burger\burger\bin\Debug\burger.pdb
+C:\Users\Diamond\Desktop\MY C#\burger\burger\obj\Debug\burger.csproj.AssemblyReference.cache
+C:\Users\Diamond\Desktop\MY C#\burger\burger\obj\Debug\burger.csproj.CoreCompileInputs.cache
+C:\Users\Diamond\Desktop\MY C#\burger\burger\obj\Debug\burger.exe
+C:\Users\Diamond\Desktop\MY C#\burger\burger\obj\Debug\burger.pdb

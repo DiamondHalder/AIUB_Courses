@@ -1,0 +1,14 @@
+C:\Users\Diamond\Desktop\MY C#\labtask2\labtask2\bin\Debug\labtask2.exe.config
+C:\Users\Diamond\Desktop\MY C#\labtask2\labtask2\bin\Debug\labtask2.exe
+C:\Users\Diamond\Desktop\MY C#\labtask2\labtask2\bin\Debug\labtask2.pdb
+C:\Users\Diamond\Desktop\MY C#\labtask2\labtask2\obj\Debug\labtask2.csproj.AssemblyReference.cache
+C:\Users\Diamond\Desktop\MY C#\labtask2\labtask2\obj\Debug\labtask2.csproj.CoreCompileInputs.cache
+C:\Users\Diamond\Desktop\MY C#\labtask2\labtask2\obj\Debug\labtask2.exe
+C:\Users\Diamond\Desktop\MY C#\labtask2\labtask2\obj\Debug\labtask2.pdb
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\2.LAB TASK\labtask2\labtask2\bin\Debug\labtask2.exe.config
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\2.LAB TASK\labtask2\labtask2\bin\Debug\labtask2.exe
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\2.LAB TASK\labtask2\labtask2\bin\Debug\labtask2.pdb
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\2.LAB TASK\labtask2\labtask2\obj\Debug\labtask2.csproj.AssemblyReference.cache
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\2.LAB TASK\labtask2\labtask2\obj\Debug\labtask2.csproj.CoreCompileInputs.cache
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\2.LAB TASK\labtask2\labtask2\obj\Debug\labtask2.exe
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\2.LAB TASK\labtask2\labtask2\obj\Debug\labtask2.pdb

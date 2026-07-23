@@ -1,0 +1,7 @@
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\Lab Task\Task1Animal\Task1Animal\bin\Debug\Task1Animal.exe.config
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\Lab Task\Task1Animal\Task1Animal\bin\Debug\Task1Animal.exe
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\Lab Task\Task1Animal\Task1Animal\bin\Debug\Task1Animal.pdb
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\Lab Task\Task1Animal\Task1Animal\obj\Debug\Task1Animal.csproj.AssemblyReference.cache
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\Lab Task\Task1Animal\Task1Animal\obj\Debug\Task1Animal.csproj.CoreCompileInputs.cache
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\Lab Task\Task1Animal\Task1Animal\obj\Debug\Task1Animal.exe
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\Lab Task\Task1Animal\Task1Animal\obj\Debug\Task1Animal.pdb

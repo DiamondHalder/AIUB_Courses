@@ -1,0 +1,7 @@
+C:\Users\Diamond\Desktop\MY C#\setget\setget\obj\Debug\setget.csproj.AssemblyReference.cache
+C:\Users\Diamond\Desktop\MY C#\setget\setget\obj\Debug\setget.csproj.CoreCompileInputs.cache
+C:\Users\Diamond\Desktop\MY C#\setget\setget\bin\Debug\setget.exe.config
+C:\Users\Diamond\Desktop\MY C#\setget\setget\bin\Debug\setget.exe
+C:\Users\Diamond\Desktop\MY C#\setget\setget\bin\Debug\setget.pdb
+C:\Users\Diamond\Desktop\MY C#\setget\setget\obj\Debug\setget.exe
+C:\Users\Diamond\Desktop\MY C#\setget\setget\obj\Debug\setget.pdb

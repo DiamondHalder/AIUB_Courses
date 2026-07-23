@@ -1,0 +1,14 @@
+C:\Users\Diamond\Desktop\MY C#\1.Code by Sir\week2\week2\bin\Debug\week2.exe.config
+C:\Users\Diamond\Desktop\MY C#\1.Code by Sir\week2\week2\bin\Debug\week2.exe
+C:\Users\Diamond\Desktop\MY C#\1.Code by Sir\week2\week2\bin\Debug\week2.pdb
+C:\Users\Diamond\Desktop\MY C#\1.Code by Sir\week2\week2\obj\Debug\week2.csproj.AssemblyReference.cache
+C:\Users\Diamond\Desktop\MY C#\1.Code by Sir\week2\week2\obj\Debug\week2.csproj.CoreCompileInputs.cache
+C:\Users\Diamond\Desktop\MY C#\1.Code by Sir\week2\week2\obj\Debug\week2.exe
+C:\Users\Diamond\Desktop\MY C#\1.Code by Sir\week2\week2\obj\Debug\week2.pdb
+D:\BSc\7. SEMESTER\OOP2\New folder\MY C#\1.Code by Sir\week2\week2\bin\Debug\week2.exe.config
+D:\BSc\7. SEMESTER\OOP2\New folder\MY C#\1.Code by Sir\week2\week2\bin\Debug\week2.exe
+D:\BSc\7. SEMESTER\OOP2\New folder\MY C#\1.Code by Sir\week2\week2\bin\Debug\week2.pdb
+D:\BSc\7. SEMESTER\OOP2\New folder\MY C#\1.Code by Sir\week2\week2\obj\Debug\week2.csproj.AssemblyReference.cache
+D:\BSc\7. SEMESTER\OOP2\New folder\MY C#\1.Code by Sir\week2\week2\obj\Debug\week2.csproj.CoreCompileInputs.cache
+D:\BSc\7. SEMESTER\OOP2\New folder\MY C#\1.Code by Sir\week2\week2\obj\Debug\week2.exe
+D:\BSc\7. SEMESTER\OOP2\New folder\MY C#\1.Code by Sir\week2\week2\obj\Debug\week2.pdb

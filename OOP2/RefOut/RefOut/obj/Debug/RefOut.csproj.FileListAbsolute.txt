@@ -1,0 +1,7 @@
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\RefOut\RefOut\bin\Debug\RefOut.exe.config
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\RefOut\RefOut\bin\Debug\RefOut.exe
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\RefOut\RefOut\bin\Debug\RefOut.pdb
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\RefOut\RefOut\obj\Debug\RefOut.csproj.AssemblyReference.cache
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\RefOut\RefOut\obj\Debug\RefOut.csproj.CoreCompileInputs.cache
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\RefOut\RefOut\obj\Debug\RefOut.exe
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\RefOut\RefOut\obj\Debug\RefOut.pdb

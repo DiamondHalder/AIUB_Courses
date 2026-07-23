@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DIAMOND\\BSc\\7. SEMESTER\\OOP2\\New folder\\MY C#\\Login\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E0B0C5-6350-4193-80DC-0A5FBF0F8648}|LOGIN\\LOGIN.csproj|d:\\diamond\\bsc\\7. semester\\oop2\\new folder\\my c#\\login\\login\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E0B0C5-6350-4193-80DC-0A5FBF0F8648}|LOGIN\\LOGIN.csproj|solutionrelative:login\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E0B0C5-6350-4193-80DC-0A5FBF0F8648}|LOGIN\\LOGIN.csproj|D:\\DIAMOND\\BSc\\7. SEMESTER\\OOP2\\New folder\\MY C#\\Login\\login\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E4E0B0C5-6350-4193-80DC-0A5FBF0F8648}|LOGIN\\LOGIN.csproj|solutionrelative:login\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E0B0C5-6350-4193-80DC-0A5FBF0F8648}|LOGIN\\LOGIN.csproj|D:\\DIAMOND\\BSc\\7. SEMESTER\\OOP2\\New folder\\MY C#\\Login\\login\\manu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E4E0B0C5-6350-4193-80DC-0A5FBF0F8648}|LOGIN\\LOGIN.csproj|solutionrelative:login\\manu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\DIAMOND\\BSc\\7. SEMESTER\\OOP2\\New folder\\MY C#\\Login\\Login\\Form1.cs",
+              "RelativeDocumentMoniker": "Login\\Form1.cs",
+              "ToolTip": "D:\\DIAMOND\\BSc\\7. SEMESTER\\OOP2\\New folder\\MY C#\\Login\\Login\\Form1.cs",
+              "RelativeToolTip": "Login\\Form1.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAwwFcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T07:32:39.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "manu.cs [Design]",
+              "DocumentMoniker": "D:\\DIAMOND\\BSc\\7. SEMESTER\\OOP2\\New folder\\MY C#\\Login\\Login\\manu.cs",
+              "RelativeDocumentMoniker": "Login\\manu.cs",
+              "ToolTip": "D:\\DIAMOND\\BSc\\7. SEMESTER\\OOP2\\New folder\\MY C#\\Login\\Login\\manu.cs [Design]",
+              "RelativeToolTip": "Login\\manu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T07:16:34.047Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\DIAMOND\\BSc\\7. SEMESTER\\OOP2\\New folder\\MY C#\\Login\\Login\\Form1.cs",
+              "RelativeDocumentMoniker": "Login\\Form1.cs",
+              "ToolTip": "D:\\DIAMOND\\BSc\\7. SEMESTER\\OOP2\\New folder\\MY C#\\Login\\Login\\Form1.cs [Design]",
+              "RelativeToolTip": "Login\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T07:16:19.849Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

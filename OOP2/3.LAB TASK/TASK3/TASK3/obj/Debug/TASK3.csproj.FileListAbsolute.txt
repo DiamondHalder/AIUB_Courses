@@ -1,0 +1,14 @@
+C:\Users\Diamond\Desktop\MY C#\3.LAB TASK\TASK3\TASK3\obj\Debug\TASK3.csproj.AssemblyReference.cache
+C:\Users\Diamond\Desktop\MY C#\3.LAB TASK\TASK3\TASK3\obj\Debug\TASK3.csproj.CoreCompileInputs.cache
+C:\Users\Diamond\Desktop\MY C#\3.LAB TASK\TASK3\TASK3\bin\Debug\TASK3.exe.config
+C:\Users\Diamond\Desktop\MY C#\3.LAB TASK\TASK3\TASK3\bin\Debug\TASK3.exe
+C:\Users\Diamond\Desktop\MY C#\3.LAB TASK\TASK3\TASK3\bin\Debug\TASK3.pdb
+C:\Users\Diamond\Desktop\MY C#\3.LAB TASK\TASK3\TASK3\obj\Debug\TASK3.exe
+C:\Users\Diamond\Desktop\MY C#\3.LAB TASK\TASK3\TASK3\obj\Debug\TASK3.pdb
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\3.LAB TASK\TASK3\TASK3\bin\Debug\TASK3.exe.config
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\3.LAB TASK\TASK3\TASK3\bin\Debug\TASK3.exe
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\3.LAB TASK\TASK3\TASK3\bin\Debug\TASK3.pdb
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\3.LAB TASK\TASK3\TASK3\obj\Debug\TASK3.csproj.AssemblyReference.cache
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\3.LAB TASK\TASK3\TASK3\obj\Debug\TASK3.csproj.CoreCompileInputs.cache
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\3.LAB TASK\TASK3\TASK3\obj\Debug\TASK3.exe
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\3.LAB TASK\TASK3\TASK3\obj\Debug\TASK3.pdb

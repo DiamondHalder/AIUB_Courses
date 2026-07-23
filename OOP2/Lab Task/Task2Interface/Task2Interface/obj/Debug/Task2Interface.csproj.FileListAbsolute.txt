@@ -1,0 +1,7 @@
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\Lab Task\Task2Interface\Task2Interface\bin\Debug\Task2Interface.exe.config
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\Lab Task\Task2Interface\Task2Interface\bin\Debug\Task2Interface.exe
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\Lab Task\Task2Interface\Task2Interface\bin\Debug\Task2Interface.pdb
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\Lab Task\Task2Interface\Task2Interface\obj\Debug\Task2Interface.csproj.AssemblyReference.cache
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\Lab Task\Task2Interface\Task2Interface\obj\Debug\Task2Interface.csproj.CoreCompileInputs.cache
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\Lab Task\Task2Interface\Task2Interface\obj\Debug\Task2Interface.exe
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\Lab Task\Task2Interface\Task2Interface\obj\Debug\Task2Interface.pdb

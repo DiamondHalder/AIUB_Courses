@@ -1,0 +1,7 @@
+C:\Users\Diamond\Desktop\MY C#\1.LAB TASK\LABTASK2\LABTASK2\bin\Debug\LABTASK2.exe.config
+C:\Users\Diamond\Desktop\MY C#\1.LAB TASK\LABTASK2\LABTASK2\bin\Debug\LABTASK2.exe
+C:\Users\Diamond\Desktop\MY C#\1.LAB TASK\LABTASK2\LABTASK2\bin\Debug\LABTASK2.pdb
+C:\Users\Diamond\Desktop\MY C#\1.LAB TASK\LABTASK2\LABTASK2\obj\Debug\LABTASK2.csproj.AssemblyReference.cache
+C:\Users\Diamond\Desktop\MY C#\1.LAB TASK\LABTASK2\LABTASK2\obj\Debug\LABTASK2.csproj.CoreCompileInputs.cache
+C:\Users\Diamond\Desktop\MY C#\1.LAB TASK\LABTASK2\LABTASK2\obj\Debug\LABTASK2.exe
+C:\Users\Diamond\Desktop\MY C#\1.LAB TASK\LABTASK2\LABTASK2\obj\Debug\LABTASK2.pdb

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DIAMOND\\BSc\\7. SEMESTER\\OOP2\\New folder\\MY C#\\MIDEX 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDABB355-4F65-48C9-B1FA-A791A28BDC72}|MIDEX 1\\MIDEX 1.csproj|d:\\diamond\\bsc\\7. semester\\oop2\\new folder\\my c#\\midex 1\\midex 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDABB355-4F65-48C9-B1FA-A791A28BDC72}|MIDEX 1\\MIDEX 1.csproj|solutionrelative:midex 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DIAMOND\\BSc\\7. SEMESTER\\OOP2\\New folder\\MY C#\\MIDEX 1\\MIDEX 1\\Program.cs",
+              "RelativeDocumentMoniker": "MIDEX 1\\Program.cs",
+              "ToolTip": "D:\\DIAMOND\\BSc\\7. SEMESTER\\OOP2\\New folder\\MY C#\\MIDEX 1\\MIDEX 1\\Program.cs",
+              "RelativeToolTip": "MIDEX 1\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T16:31:03.047Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

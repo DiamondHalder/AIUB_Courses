@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DIAMOND\\BSc\\7. SEMESTER\\OOP2\\New folder\\MY C#\\StudentInfoCrudOperation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C57B3661-F9BB-4407-B69A-40473F6EB982}|StudentInfoCrudOperation\\StudentInfoCrudOperation.csproj|d:\\diamond\\bsc\\7. semester\\oop2\\new folder\\my c#\\studentinfocrudoperation\\studentinfocrudoperation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C57B3661-F9BB-4407-B69A-40473F6EB982}|StudentInfoCrudOperation\\StudentInfoCrudOperation.csproj|solutionrelative:studentinfocrudoperation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57B3661-F9BB-4407-B69A-40473F6EB982}|StudentInfoCrudOperation\\StudentInfoCrudOperation.csproj|d:\\diamond\\bsc\\7. semester\\oop2\\new folder\\my c#\\studentinfocrudoperation\\studentinfocrudoperation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C57B3661-F9BB-4407-B69A-40473F6EB982}|StudentInfoCrudOperation\\StudentInfoCrudOperation.csproj|solutionrelative:studentinfocrudoperation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\DIAMOND\\BSc\\7. SEMESTER\\OOP2\\New folder\\MY C#\\StudentInfoCrudOperation\\StudentInfoCrudOperation\\Form1.cs",
+              "RelativeDocumentMoniker": "StudentInfoCrudOperation\\Form1.cs",
+              "ToolTip": "D:\\DIAMOND\\BSc\\7. SEMESTER\\OOP2\\New folder\\MY C#\\StudentInfoCrudOperation\\StudentInfoCrudOperation\\Form1.cs [Design]",
+              "RelativeToolTip": "StudentInfoCrudOperation\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T14:34:39.549Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\DIAMOND\\BSc\\7. SEMESTER\\OOP2\\New folder\\MY C#\\StudentInfoCrudOperation\\StudentInfoCrudOperation\\Form1.cs",
+              "RelativeDocumentMoniker": "StudentInfoCrudOperation\\Form1.cs",
+              "ToolTip": "D:\\DIAMOND\\BSc\\7. SEMESTER\\OOP2\\New folder\\MY C#\\StudentInfoCrudOperation\\StudentInfoCrudOperation\\Form1.cs",
+              "RelativeToolTip": "StudentInfoCrudOperation\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAK8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T16:10:56.382Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

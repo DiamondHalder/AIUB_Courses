@@ -1,0 +1,21 @@
+C:\Users\Diamond\Desktop\MY C#\MIDEX 1\MIDEX 1\bin\Debug\MIDEX 1.exe.config
+C:\Users\Diamond\Desktop\MY C#\MIDEX 1\MIDEX 1\bin\Debug\MIDEX 1.exe
+C:\Users\Diamond\Desktop\MY C#\MIDEX 1\MIDEX 1\bin\Debug\MIDEX 1.pdb
+C:\Users\Diamond\Desktop\MY C#\MIDEX 1\MIDEX 1\obj\Debug\MIDEX 1.csproj.AssemblyReference.cache
+C:\Users\Diamond\Desktop\MY C#\MIDEX 1\MIDEX 1\obj\Debug\MIDEX 1.csproj.CoreCompileInputs.cache
+C:\Users\Diamond\Desktop\MY C#\MIDEX 1\MIDEX 1\obj\Debug\MIDEX 1.exe
+C:\Users\Diamond\Desktop\MY C#\MIDEX 1\MIDEX 1\obj\Debug\MIDEX 1.pdb
+D:\BSc\7. SEMESTER\OOP2\New folder\MY C#\MIDEX 1\MIDEX 1\bin\Debug\MIDEX 1.exe.config
+D:\BSc\7. SEMESTER\OOP2\New folder\MY C#\MIDEX 1\MIDEX 1\bin\Debug\MIDEX 1.exe
+D:\BSc\7. SEMESTER\OOP2\New folder\MY C#\MIDEX 1\MIDEX 1\bin\Debug\MIDEX 1.pdb
+D:\BSc\7. SEMESTER\OOP2\New folder\MY C#\MIDEX 1\MIDEX 1\obj\Debug\MIDEX 1.csproj.AssemblyReference.cache
+D:\BSc\7. SEMESTER\OOP2\New folder\MY C#\MIDEX 1\MIDEX 1\obj\Debug\MIDEX 1.csproj.CoreCompileInputs.cache
+D:\BSc\7. SEMESTER\OOP2\New folder\MY C#\MIDEX 1\MIDEX 1\obj\Debug\MIDEX 1.exe
+D:\BSc\7. SEMESTER\OOP2\New folder\MY C#\MIDEX 1\MIDEX 1\obj\Debug\MIDEX 1.pdb
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\MIDEX 1\MIDEX 1\bin\Debug\MIDEX 1.exe.config
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\MIDEX 1\MIDEX 1\bin\Debug\MIDEX 1.exe
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\MIDEX 1\MIDEX 1\bin\Debug\MIDEX 1.pdb
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\MIDEX 1\MIDEX 1\obj\Debug\MIDEX 1.csproj.AssemblyReference.cache
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\MIDEX 1\MIDEX 1\obj\Debug\MIDEX 1.csproj.CoreCompileInputs.cache
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\MIDEX 1\MIDEX 1\obj\Debug\MIDEX 1.exe
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\MIDEX 1\MIDEX 1\obj\Debug\MIDEX 1.pdb

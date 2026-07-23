@@ -1,0 +1,7 @@
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\MidQueTest\MidQueTest\obj\Debug\MidQueTest.csproj.AssemblyReference.cache
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\MidQueTest\MidQueTest\obj\Debug\MidQueTest.csproj.CoreCompileInputs.cache
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\MidQueTest\MidQueTest\bin\Debug\MidQueTest.exe.config
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\MidQueTest\MidQueTest\bin\Debug\MidQueTest.exe
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\MidQueTest\MidQueTest\bin\Debug\MidQueTest.pdb
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\MidQueTest\MidQueTest\obj\Debug\MidQueTest.exe
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\MidQueTest\MidQueTest\obj\Debug\MidQueTest.pdb

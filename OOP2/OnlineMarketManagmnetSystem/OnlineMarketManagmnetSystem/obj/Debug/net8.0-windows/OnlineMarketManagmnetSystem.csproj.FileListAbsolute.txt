@@ -1,0 +1,229 @@
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\1.Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\OnlineMarketManagmnetSystem.exe
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\1.Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\OnlineMarketManagmnetSystem.deps.json
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\1.Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\OnlineMarketManagmnetSystem.runtimeconfig.json
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\1.Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\OnlineMarketManagmnetSystem.dll
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\1.Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\OnlineMarketManagmnetSystem.pdb
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\1.Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.Form1.resources
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\1.Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.csproj.GenerateResource.cache
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\1.Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\1.Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.AssemblyInfoInputs.cache
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\1.Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.AssemblyInfo.cs
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\1.Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.csproj.CoreCompileInputs.cache
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\1.Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.dll
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\1.Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\refint\OnlineMarketManagmnetSystem.dll
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\1.Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.pdb
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\1.Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.genruntimeconfig.cache
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\1.Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\ref\OnlineMarketManagmnetSystem.dll
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\1.Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\Bunifu.Licensing.dll
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\1.Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\Bunifu.UI.WinForms.dll
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\1.Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\1.Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\RestSharp.dll
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\1.Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\System.Management.dll
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\1.Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Management.dll
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\1.Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.csproj.AssemblyReference.cache
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\1.Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.Properties.Resources.resources
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\1.Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMa.21E49740.Up2Date
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\1.Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\Guna.UI2.dll
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\1.Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\1.Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\1.Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\1.Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\1.Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\1.Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\1.Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.Login.resources
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\1.Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.AdminView.resources
+C:\Users\DIAMOND HALDER\Documents\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\OnlineMarketManagmnetSystem.exe
+C:\Users\DIAMOND HALDER\Documents\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\OnlineMarketManagmnetSystem.deps.json
+C:\Users\DIAMOND HALDER\Documents\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\OnlineMarketManagmnetSystem.runtimeconfig.json
+C:\Users\DIAMOND HALDER\Documents\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\OnlineMarketManagmnetSystem.dll
+C:\Users\DIAMOND HALDER\Documents\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\OnlineMarketManagmnetSystem.pdb
+C:\Users\DIAMOND HALDER\Documents\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\Bunifu.Licensing.dll
+C:\Users\DIAMOND HALDER\Documents\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\Bunifu.UI.WinForms.dll
+C:\Users\DIAMOND HALDER\Documents\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\DIAMOND HALDER\Documents\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\DIAMOND HALDER\Documents\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\RestSharp.dll
+C:\Users\DIAMOND HALDER\Documents\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\DIAMOND HALDER\Documents\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\DIAMOND HALDER\Documents\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\DIAMOND HALDER\Documents\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\DIAMOND HALDER\Documents\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\DIAMOND HALDER\Documents\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DIAMOND HALDER\Documents\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DIAMOND HALDER\Documents\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Management.dll
+C:\Users\DIAMOND HALDER\Documents\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.csproj.AssemblyReference.cache
+C:\Users\DIAMOND HALDER\Documents\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.AdminView.resources
+C:\Users\DIAMOND HALDER\Documents\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.Form1.resources
+C:\Users\DIAMOND HALDER\Documents\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.Login.resources
+C:\Users\DIAMOND HALDER\Documents\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.Properties.Resources.resources
+C:\Users\DIAMOND HALDER\Documents\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.csproj.GenerateResource.cache
+C:\Users\DIAMOND HALDER\Documents\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DIAMOND HALDER\Documents\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.AssemblyInfoInputs.cache
+C:\Users\DIAMOND HALDER\Documents\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.AssemblyInfo.cs
+C:\Users\DIAMOND HALDER\Documents\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.csproj.CoreCompileInputs.cache
+C:\Users\DIAMOND HALDER\Documents\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMa.21E49740.Up2Date
+C:\Users\DIAMOND HALDER\Documents\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.dll
+C:\Users\DIAMOND HALDER\Documents\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\refint\OnlineMarketManagmnetSystem.dll
+C:\Users\DIAMOND HALDER\Documents\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.pdb
+C:\Users\DIAMOND HALDER\Documents\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.genruntimeconfig.cache
+C:\Users\DIAMOND HALDER\Documents\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\ref\OnlineMarketManagmnetSystem.dll
+C:\Users\DIAMOND HALDER\Documents\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.BuyProduct.resources
+C:\Users\DIAMOND HALDER\Documents\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.Product.resources
+C:\Users\DIAMOND HALDER\Documents\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.Registration.resources
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\1.Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.BuyProduct.resources
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\1.Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.Product.resources
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\1.Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.Registration.resources
+C:\Users\DIAMOND HALDER\Documents\new project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\OnlineMarketManagmnetSystem.exe
+C:\Users\DIAMOND HALDER\Documents\new project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\OnlineMarketManagmnetSystem.deps.json
+C:\Users\DIAMOND HALDER\Documents\new project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\OnlineMarketManagmnetSystem.runtimeconfig.json
+C:\Users\DIAMOND HALDER\Documents\new project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\OnlineMarketManagmnetSystem.dll
+C:\Users\DIAMOND HALDER\Documents\new project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\OnlineMarketManagmnetSystem.pdb
+C:\Users\DIAMOND HALDER\Documents\new project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\Bunifu.Licensing.dll
+C:\Users\DIAMOND HALDER\Documents\new project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\Bunifu.UI.WinForms.dll
+C:\Users\DIAMOND HALDER\Documents\new project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\DIAMOND HALDER\Documents\new project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\DIAMOND HALDER\Documents\new project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\RestSharp.dll
+C:\Users\DIAMOND HALDER\Documents\new project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\DIAMOND HALDER\Documents\new project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\DIAMOND HALDER\Documents\new project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\DIAMOND HALDER\Documents\new project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\DIAMOND HALDER\Documents\new project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\DIAMOND HALDER\Documents\new project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DIAMOND HALDER\Documents\new project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DIAMOND HALDER\Documents\new project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Management.dll
+C:\Users\DIAMOND HALDER\Documents\new project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.csproj.AssemblyReference.cache
+C:\Users\DIAMOND HALDER\Documents\new project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.AdminView.resources
+C:\Users\DIAMOND HALDER\Documents\new project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.BuyProduct.resources
+C:\Users\DIAMOND HALDER\Documents\new project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.Form1.resources
+C:\Users\DIAMOND HALDER\Documents\new project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.Login.resources
+C:\Users\DIAMOND HALDER\Documents\new project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.Product.resources
+C:\Users\DIAMOND HALDER\Documents\new project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.Properties.Resources.resources
+C:\Users\DIAMOND HALDER\Documents\new project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.Registration.resources
+C:\Users\DIAMOND HALDER\Documents\new project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.csproj.GenerateResource.cache
+C:\Users\DIAMOND HALDER\Documents\new project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DIAMOND HALDER\Documents\new project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.AssemblyInfoInputs.cache
+C:\Users\DIAMOND HALDER\Documents\new project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.AssemblyInfo.cs
+C:\Users\DIAMOND HALDER\Documents\new project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.csproj.CoreCompileInputs.cache
+C:\Users\DIAMOND HALDER\Documents\new project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMa.21E49740.Up2Date
+C:\Users\DIAMOND HALDER\Documents\new project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.dll
+C:\Users\DIAMOND HALDER\Documents\new project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\refint\OnlineMarketManagmnetSystem.dll
+C:\Users\DIAMOND HALDER\Documents\new project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.pdb
+C:\Users\DIAMOND HALDER\Documents\new project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.genruntimeconfig.cache
+C:\Users\DIAMOND HALDER\Documents\new project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\ref\OnlineMarketManagmnetSystem.dll
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\2. New Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\OnlineMarketManagmnetSystem.exe
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\2. New Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\OnlineMarketManagmnetSystem.deps.json
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\2. New Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\OnlineMarketManagmnetSystem.runtimeconfig.json
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\2. New Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\OnlineMarketManagmnetSystem.dll
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\2. New Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\OnlineMarketManagmnetSystem.pdb
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\2. New Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\Bunifu.Licensing.dll
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\2. New Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\Bunifu.UI.WinForms.dll
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\2. New Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\Guna.UI2.dll
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\2. New Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\2. New Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\RestSharp.dll
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\2. New Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\2. New Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\System.Management.dll
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\2. New Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\2. New Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\2. New Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\2. New Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\2. New Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\2. New Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Management.dll
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\2. New Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.csproj.AssemblyReference.cache
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\2. New Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.AdminView.resources
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\2. New Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.BuyProduct.resources
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\2. New Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.Form1.resources
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\2. New Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.Login.resources
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\2. New Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.Product.resources
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\2. New Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.Properties.Resources.resources
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\2. New Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.Registration.resources
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\2. New Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.csproj.GenerateResource.cache
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\2. New Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\2. New Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.AssemblyInfoInputs.cache
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\2. New Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.AssemblyInfo.cs
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\2. New Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.csproj.CoreCompileInputs.cache
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\2. New Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMa.21E49740.Up2Date
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\2. New Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.dll
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\2. New Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\refint\OnlineMarketManagmnetSystem.dll
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\2. New Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.pdb
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\2. New Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.genruntimeconfig.cache
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\2. New Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\ref\OnlineMarketManagmnetSystem.dll
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\2. New Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.Bkash.resources
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\2. New Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.BkashEnd.resources
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\2. New Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.Botp.resources
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\2. New Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.Buy1.resources
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\2. New Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.Nagad.resources
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\2. New Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.nagadend.resources
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\2. New Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.Notp.resources
+C:\Users\DIAMOND HALDER\Documents\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.Bkash.resources
+C:\Users\DIAMOND HALDER\Documents\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.BkashEnd.resources
+C:\Users\DIAMOND HALDER\Documents\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.Botp.resources
+C:\Users\DIAMOND HALDER\Documents\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.Buy1.resources
+C:\Users\DIAMOND HALDER\Documents\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.Nagad.resources
+C:\Users\DIAMOND HALDER\Documents\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.nagadend.resources
+C:\Users\DIAMOND HALDER\Documents\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.Notp.resources
+C:\Users\DIAMOND HALDER\Documents\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.Rocket.resources
+C:\Users\DIAMOND HALDER\Documents\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.Rocketend.resources
+C:\Users\DIAMOND HALDER\Documents\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.Rotp.resources
+C:\Users\DIAMOND HALDER\Documents\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.Card.resources
+C:\Users\DIAMOND HALDER\Documents\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.CardEnd.resources
+C:\Users\DIAMOND HALDER\Documents\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.Cardotp.resources
+C:\Users\DIAMOND HALDER\Documents\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.SellingDetails.resources
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\2. New Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.Card.resources
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\2. New Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.CardEnd.resources
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\2. New Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.Cardotp.resources
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\2. New Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.Rocket.resources
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\2. New Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.Rocketend.resources
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\2. New Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.Rotp.resources
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\2. New Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.SellingDetails.resources
+C:\Users\DIAMOND HALDER\Documents\newewewew\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\OnlineMarketManagmnetSystem.exe
+C:\Users\DIAMOND HALDER\Documents\newewewew\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\OnlineMarketManagmnetSystem.deps.json
+C:\Users\DIAMOND HALDER\Documents\newewewew\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\OnlineMarketManagmnetSystem.runtimeconfig.json
+C:\Users\DIAMOND HALDER\Documents\newewewew\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\OnlineMarketManagmnetSystem.dll
+C:\Users\DIAMOND HALDER\Documents\newewewew\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\OnlineMarketManagmnetSystem.pdb
+C:\Users\DIAMOND HALDER\Documents\newewewew\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\Bunifu.Licensing.dll
+C:\Users\DIAMOND HALDER\Documents\newewewew\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\Bunifu.UI.WinForms.dll
+C:\Users\DIAMOND HALDER\Documents\newewewew\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\DIAMOND HALDER\Documents\newewewew\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\DIAMOND HALDER\Documents\newewewew\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\RestSharp.dll
+C:\Users\DIAMOND HALDER\Documents\newewewew\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\DIAMOND HALDER\Documents\newewewew\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\DIAMOND HALDER\Documents\newewewew\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\DIAMOND HALDER\Documents\newewewew\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\DIAMOND HALDER\Documents\newewewew\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\DIAMOND HALDER\Documents\newewewew\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DIAMOND HALDER\Documents\newewewew\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DIAMOND HALDER\Documents\newewewew\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Management.dll
+C:\Users\DIAMOND HALDER\Documents\newewewew\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.csproj.AssemblyReference.cache
+C:\Users\DIAMOND HALDER\Documents\newewewew\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.AdminView.resources
+C:\Users\DIAMOND HALDER\Documents\newewewew\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.Bkash.resources
+C:\Users\DIAMOND HALDER\Documents\newewewew\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.BkashEnd.resources
+C:\Users\DIAMOND HALDER\Documents\newewewew\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.Botp.resources
+C:\Users\DIAMOND HALDER\Documents\newewewew\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.Buy1.resources
+C:\Users\DIAMOND HALDER\Documents\newewewew\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.BuyProduct.resources
+C:\Users\DIAMOND HALDER\Documents\newewewew\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.Card.resources
+C:\Users\DIAMOND HALDER\Documents\newewewew\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.CardEnd.resources
+C:\Users\DIAMOND HALDER\Documents\newewewew\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.Cardotp.resources
+C:\Users\DIAMOND HALDER\Documents\newewewew\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.Form1.resources
+C:\Users\DIAMOND HALDER\Documents\newewewew\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.Login.resources
+C:\Users\DIAMOND HALDER\Documents\newewewew\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.Nagad.resources
+C:\Users\DIAMOND HALDER\Documents\newewewew\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.nagadend.resources
+C:\Users\DIAMOND HALDER\Documents\newewewew\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.Notp.resources
+C:\Users\DIAMOND HALDER\Documents\newewewew\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.Product.resources
+C:\Users\DIAMOND HALDER\Documents\newewewew\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.Properties.Resources.resources
+C:\Users\DIAMOND HALDER\Documents\newewewew\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.Registration.resources
+C:\Users\DIAMOND HALDER\Documents\newewewew\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.Rocket.resources
+C:\Users\DIAMOND HALDER\Documents\newewewew\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.Rocketend.resources
+C:\Users\DIAMOND HALDER\Documents\newewewew\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.Rotp.resources
+C:\Users\DIAMOND HALDER\Documents\newewewew\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.SellingDetails.resources
+C:\Users\DIAMOND HALDER\Documents\newewewew\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.csproj.GenerateResource.cache
+C:\Users\DIAMOND HALDER\Documents\newewewew\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DIAMOND HALDER\Documents\newewewew\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.AssemblyInfoInputs.cache
+C:\Users\DIAMOND HALDER\Documents\newewewew\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.AssemblyInfo.cs
+C:\Users\DIAMOND HALDER\Documents\newewewew\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.csproj.CoreCompileInputs.cache
+C:\Users\DIAMOND HALDER\Documents\newewewew\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMa.21E49740.Up2Date
+C:\Users\DIAMOND HALDER\Documents\newewewew\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.dll
+C:\Users\DIAMOND HALDER\Documents\newewewew\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\refint\OnlineMarketManagmnetSystem.dll
+C:\Users\DIAMOND HALDER\Documents\newewewew\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.pdb
+C:\Users\DIAMOND HALDER\Documents\newewewew\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.genruntimeconfig.cache
+C:\Users\DIAMOND HALDER\Documents\newewewew\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\ref\OnlineMarketManagmnetSystem.dll
+D:\DIAMOND\BSc\7. SEMESTER\OOP2\New folder\MY C#\2. New Project\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.AdminRegistration.resources
+C:\Users\DIAMOND HALDER\Documents\OnlineMarketManagmnetSystem\OnlineMarketManagmnetSystem\obj\Debug\net8.0-windows\OnlineMarketManagmnetSystem.AdminRegistration.resources
