@@ -1,0 +1,27 @@
+Even Odd And Maximum
+
+#!/bin/bash
+ 
+read -p "Enter three numbers : " a b c
+max=0
+ 
+if (( ( a > b ) && ( a > c ) ))
+then
+echo "The maximum number is "$a
+max=a
+elif (( ( b > c ) && ( b > a )))
+then
+echo "The maximum number is "$b
+max=b
+else
+echo "The maximum number is "$c
+max=c
+fi
+ 
+if (( max % 2 == 0 ))
+then
+echo "This is an even number."
+else
+echo "This is a odd number"
+fi
+

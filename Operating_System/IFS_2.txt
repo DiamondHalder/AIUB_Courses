@@ -1,0 +1,8 @@
+#!/bin/bash
+ 
+filename = f.txt
+while IFS=' ' read firstname secondname thirdname
+do
+ echo "First Name: $firstname Second Name: $secondname"
+done <$filename
+ 

@@ -1,0 +1,9 @@
+#!/bin/bash
+ 
+filename=f2.txt
+ 
+while IFS=',' read name age address
+ 
+do
+echo $name "live in" $address
+done <$filename

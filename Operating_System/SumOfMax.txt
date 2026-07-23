@@ -1,0 +1,18 @@
+read -p "Enter three numbers : " a b c
+max=$(expr $a + $b + $c )
+echo $max
+
+read -p "Enter three numbers : " a b c
+max=$(( a + b + c ))
+echo $max
+
+#!/bin/bash
+ 
+read -p "enter a value: " max
+ 
+if (( max < 10))
+then
+echo "hello world"
+else
+echo "Value is too much"
+fi

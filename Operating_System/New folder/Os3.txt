@@ -1,0 +1,46 @@
+#!/bin/bash
+ 
+read -p "Enter the row number: " row
+ 
+for((i=1; i<=row; i++))
+do
+for((j=1; j<=i; j++))
+do echo -n "*"
+done
+echo
+done
+
+
+
+
+#!/bin/bash
+ 
+count=$(wc -l < f1.txt)
+for var in $count
+#!/bin/bash
+ 
+count=$(wc -l < f1.txt)
+for var in $count
+do
+echo "Number of line": $var
+done
+
+#!/bin/bash
+ 
+filename=f2.txt
+ 
+while IFS=',' read name age address
+ 
+do
+echo $name "live in" $address
+done <$filename
+
+
+#!/bin/bash
+ 
+filename = f.txt
+while IFS=' ' read firstname secondname thirdname
+do
+ echo "First Name: $firstname Second Name: $secondname"
+done <$filename
+ 

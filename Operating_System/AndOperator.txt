@@ -1,0 +1,10 @@
+#!/bin/bash
+ 
+read -p "enter a value: " max
+ 
+if (( ( max > 10 ) && ( max < 15 ) ))
+then
+echo "hello world"
+else
+echo "Value is too much"
+fi

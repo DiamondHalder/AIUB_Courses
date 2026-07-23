@@ -1,0 +1,8 @@
+Select Loop
+#!/bin/bash
+ 
+echo "Choose your favouritie food "
+select f in Pizza Burger Chicken
+do
+echo "You selected: "$f
+done

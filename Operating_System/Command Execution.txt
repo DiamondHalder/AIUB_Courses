@@ -1,0 +1,11 @@
+#!/bin/bash
+ 
+count=$(wc -l < f1.txt)
+for var in $count
+#!/bin/bash
+ 
+count=$(wc -l < f1.txt)
+for var in $count
+do
+echo "Number of line": $var
+done
